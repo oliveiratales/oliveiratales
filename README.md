@@ -1,6 +1,6 @@
 ### Olá, eu sou Tales 😄✌🏽
 
-Sou desenvolvedor front-end, gamer, músico e aventureiro na cozinha.
+Sou desenvolvedor front-end, gamer, músico e aventureiro na cozinha. 👨‍💻🎮🪕🍽
 
 Acesse meu site conhecer mais sobre mim: <a href="https://oliveiratales.github.io/" target="_blank"> Tales Ribeiro - Dev. Front-end </a>
 ##
