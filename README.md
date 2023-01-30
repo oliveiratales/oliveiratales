@@ -4,7 +4,11 @@ Sou desenvolvedor front-end, gamer, músico e aventureiro na cozinha. 👨‍�
 
 Acesse meu site para conhecer mais sobre mim: <a href="https://oliveiratales.github.io/" target="_blank"> Tales Ribeiro - Dev. Front-end </a>
 ##
- 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratales&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&theme=dark&layout=compact)
+
+
 ### Minhas principais skills:  
 <div style="display: inline_block"><br>
   <img align="center" alt="Tales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
