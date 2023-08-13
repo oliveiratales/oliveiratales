@@ -8,7 +8,10 @@ Sou estudante de ciência de dados e desenvolvimento front-end, gamer, músico e
 
 ### Minhas principais skills:  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tales-Python" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/8621d1d5-9295-4a14-b7fc-6c3084f9910f">
+
+ 
+
+  <img align="center" alt="Tales-Python" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/b46cc95f-8027-4640-9956-a6147404bf73">
   <img align="center" alt="Tales-SQL" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/25e853e7-a83e-402d-9674-9c881148deb7">
   <img align="center" alt="Tales-PowerBI" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/43eda3f7-4e6e-4fa3-8072-965de0cc14d1">
   <img align="center" alt="Tales-MongoDB" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/3ca4788a-8876-48d7-9747-10216551a3e7">
