@@ -1,6 +1,6 @@
 ### Olá, eu sou Tales 😄✌🏽
 
-Sou analista de dados, também estudo desenvolvimento front-end, gamer, músico e aventureiro na cozinha. 👨‍💻🎮🪕🍽
+Sou estudante de ciência de dados e desenvolvimento front-end, gamer, músico e aventureiro na cozinha. 👨‍💻🎮🪕🍽
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratales&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&theme=dark&layout=compact)
