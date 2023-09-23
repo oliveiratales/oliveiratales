@@ -9,17 +9,15 @@ Sou desenvolvedor full stack, gamer, músico e aventureiro na cozinha. 👨‍�
 ### Minhas principais skills:  
 <div style="display: inline_block"><br>
 
- 
-
-  <img align="center" alt="Tales-Python" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/b46cc95f-8027-4640-9956-a6147404bf73">
-  <img align="center" alt="Tales-SQL" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/25e853e7-a83e-402d-9674-9c881148deb7">
-  <img align="center" alt="Tales-PowerBI" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/43eda3f7-4e6e-4fa3-8072-965de0cc14d1">
-  <img align="center" alt="Tales-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tales-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Tales-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Tales-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tales-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tales-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tales-Vue" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/d534a14b-1214-40b3-b68d-6ea13168c77e">
+  <img align="center" alt="Tales-Node" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/a6b218bf-663a-45ee-b6f2-1683cac9229c">
+  <img align="center" alt="Tales-CSharp" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/0a77896f-109a-44e9-84d8-5d9a67d85b80">
+  <img align="center" alt="Tales-Python" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/baf548a5-ce07-48b9-9e7c-ed09dfcf8931">
+  <img align="center" alt="Tales-MySQL" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/62df364f-f3e6-4b5a-b859-85668ff2e4aa">
+  <img align="center" alt="Tales-MongoDB" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/c33a2c6b-a6bc-4d78-80de-626c28597175">
+  <img align="center" alt="Tales-PostgreSQL" height="40" width="40" src="https://github.com/oliveiratales/oliveiratales/assets/118945743/d8502281-7369-4604-b2d3-0a091f6f555f">
+  
 </div>
 
 ##
