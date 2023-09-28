@@ -6,7 +6,7 @@ Sou desenvolvedor full stack, gamer, músico e aventureiro na cozinha. 👨‍�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&theme=dark&layout=compact)
 
 
-### Minhas principais skills:  
+### Principais skills/tecnologias:  
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Tales-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
