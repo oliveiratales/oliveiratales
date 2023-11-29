@@ -1,10 +1,17 @@
 ### Olá, eu sou Tales 😄✌🏽
 
-Sou desenvolvedor full stack, gamer, músico e aventureiro na cozinha. 👨‍💻🎮🪕🍽
+<img src="https://github.com/oliveiratales/oliveiratales/assets/118945743/495edd3a-18d6-4eb5-b237-367d71a813fb" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratales&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&hide_progress=true&theme=dark)
-
+<p align="left"> 
+Sou um profissional dedicado e comunicativo, com vasta vivência na área da
+informação, amante da tecnologia e com grande conhecimento em programação e
+tratamento de dados. Trabalho com desenvolvimento full stack, na
+criação de aplicações web e desktop, criação e manipulação de API’s, tratamento
+de dados e gerenciamento de banco de dados. Além de experiência e conhecimento
+na área de desenvolvimento, sou estudante de Análise e Desenvolvimento de
+Sistemas, e possuo cursos em diversas áreas da tecnologia para agregar na resolução
+de problemas do cotidiano.
+</p>
 
 ### Principais skills/tecnologias:  
 <div style="display: inline_block"><br>
@@ -28,3 +35,8 @@ Sou desenvolvedor full stack, gamer, músico e aventureiro na cozinha. 👨‍�
 <div style="display: block">
   <a href="https://www.linkedin.com/in/talesroliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratales&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&hide_progress=true&theme=dark)
