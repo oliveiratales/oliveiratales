@@ -14,7 +14,7 @@ de problemas do cotidiano.
 </p>
 
 <h2 align="left">
- Tecnologias:
+ 👨🏽‍💻 Tecnologias
 </h2> 
 
 <div>
@@ -32,7 +32,7 @@ de problemas do cotidiano.
 </div>
 
 <h2 align="left">
- Social:
+ 💬 Contato:
 </h2> 
 
 <div style="display: block">
@@ -41,7 +41,7 @@ de problemas do cotidiano.
 </div>
 
 <h2 align="left">
- Stats:
+ 📈 Stats:
 </h2> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratales&show_icons=true&theme=dark)
