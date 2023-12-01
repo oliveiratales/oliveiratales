@@ -1,4 +1,4 @@
-### Olá, eu sou Tales 😄✌🏽
+# Olá, eu sou Tales 😄✌🏽
 
 <img src="https://github.com/oliveiratales/oliveiratales/assets/118945743/495edd3a-18d6-4eb5-b237-367d71a813fb" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
