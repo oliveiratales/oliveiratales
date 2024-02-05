@@ -3,14 +3,13 @@
 <img src="https://github.com/oliveiratales/oliveiratales/assets/118945743/495edd3a-18d6-4eb5-b237-367d71a813fb" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou um profissional dedicado e comunicativo, com vasta vivência na área da
-informação, amante da tecnologia e com grande conhecimento em programação e
-tratamento de dados. Trabalho com desenvolvimento full stack, na
-criação de aplicações web e desktop, criação e manipulação de API’s, tratamento
-de dados e gerenciamento de banco de dados. Além de experiência e conhecimento
-na área de desenvolvimento, sou estudante de Análise e Desenvolvimento de
-Sistemas, e possuo cursos em diversas áreas da tecnologia para agregar na resolução
-de problemas do cotidiano.
+Sou um Desenvolvedor Full Stack com formação técnica em Informática com ênfase em programação e atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Desde 2014, estou imerso no mundo da programação, buscando constantemente atualização e aprimoramento em novas tecnologias e linguagens.
+
+Minha experiência profissional inclui passagens por grandes empresas nos setores têxtil e químico, onde desenvolvi habilidades sólidas em planejamento e melhorias. Atualmente, atuo no desenvolvimento full stack, sendo responsável pela criação e manutenção de aplicações e interfaces para o setor público, cobrindo todo o ciclo, do frontend ao backend.
+
+Possuo amplo conhecimento e experiência em C#/.NET, além de eficiência em diversas outras tecnologias, como HTML, CSS/SASS, Javascript, React, Vue.js, Wordpress, Node.js, Python, e familiaridade com bancos de dados como SQL Server e MySQL. Meu portfólio de projetos é extenso, e conto com certificações e cursos que atestam minha proficiência em diversas tecnologias.
+
+Sou impulsionado por valores como dedicação, persistência e comunicação eficaz. Gosto de construir boas conexões com as pessoas, sempre buscando soluções criativas e coletivas para os desafios, e estou sempre aberto a aprender mais e compartilhar experiências.
 </p>
 
 <h2 align="left">
