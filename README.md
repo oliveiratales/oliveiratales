@@ -7,7 +7,7 @@ Sou um Desenvolvedor Full Stack com formação técnica em Informática com ênf
 
 Minha experiência profissional inclui passagens por grandes empresas nos setores têxtil e químico, onde desenvolvi habilidades sólidas em planejamento e melhorias. Atualmente, atuo no desenvolvimento full stack, sendo responsável pela criação e manutenção de aplicações e interfaces para o setor público, cobrindo todo o ciclo, do frontend ao backend.
 
-Possuo amplo conhecimento e experiência em C#/.NET, além de eficiência em diversas outras tecnologias, como HTML, CSS/SASS, Javascript, React, Vue.js, Wordpress, Node.js, Python, e familiaridade com bancos de dados como SQL Server e MySQL. Meu portfólio de projetos é extenso, e conto com certificações e cursos que atestam minha proficiência em diversas tecnologias.
+Possuo amplo conhecimento e experiência em C#/.NET, além de eficiência em diversas outras tecnologias, como HTML, CSS/SASS, Javascript, React, Vue.js, Wordpress, Node.js, Python, e familiaridade com bancos de dados como SQL Server e MySQL.
 
 Sou impulsionado por valores como dedicação, persistência e comunicação eficaz. Gosto de construir boas conexões com as pessoas, sempre buscando soluções criativas e coletivas para os desafios, e estou sempre aberto a aprender mais e compartilhar experiências.
 </p>
