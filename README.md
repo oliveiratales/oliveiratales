@@ -3,7 +3,7 @@
 <img src="https://github.com/oliveiratales/oliveiratales/assets/118945743/495edd3a-18d6-4eb5-b237-367d71a813fb" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou um Desenvolvedor Full Stack com formação técnica em Informática com ênfase em programação e atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Desde 2014, estou imerso no mundo da programação, buscando constantemente atualização e aprimoramento em novas tecnologias e linguagens.
+Sou um Desenvolvedor Backend com formação técnica em Informática com ênfase em programação e atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Desde 2014, estou imerso no mundo da programação, buscando constantemente atualização e aprimoramento em novas tecnologias e linguagens.
 
 Além das habilidades técnicas, possuo um profundo entendimento dos princípios SOLID, DDD, Design Patterns e boas práticas de desenvolvimento, incluindo a implementação de Testes, Código e Arquitetura Limpa. Sou adepto do padrão MVC (Model-View-Controller) e praticante ágil, utilizando metodologias como Scrum para garantir entregas eficientes. Adicionalmente, tenho experiência na criação, integração e consumo de serviços com arquitetura REST, contribuindo para a interoperabilidade e otimização do desempenho dos sistemas.
 
