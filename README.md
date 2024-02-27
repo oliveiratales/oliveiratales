@@ -48,7 +48,7 @@ Sou impulsionado por valores como dedicação, persistência e comunicação efi
 </h2> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratales&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratales&layout=donut&theme=dark)
 
 
 ##
