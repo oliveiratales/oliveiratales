@@ -3,11 +3,11 @@
 <img src="https://github.com/oliveiratales/oliveiratales/assets/118945743/495edd3a-18d6-4eb5-b237-367d71a813fb" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou um Desenvolvedor Backend com formação técnica em Informática com ênfase em programação e atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Desde 2014, estou imerso no mundo da programação, buscando constantemente atualização e aprimoramento em novas tecnologias e linguagens.
+Sou Desenvolvedor de Software com formação técnica em Informática focada em programação, superior em Análise e Desenvolvimento de Sistemas e pós graduando em Engenharia de Software. Desde 2014, venho imerso no universo da programação, em constante busca por atualização e aprimoramento em novas tecnologias e linguagens.
 
-Além das habilidades técnicas, possuo um profundo entendimento dos princípios SOLID, Design Patterns e Domain-Driven Design (DDD), assim como conhecimento em microsserviços, mensageria, CI/CD e boas práticas de desenvolvimento, incluindo a implementação de Testes de Unidade/Integração e Código Limpo. Possuo grande conhecimento em arquiteturas de software, e sou praticante ágil, utilizando metodologias como Scrum para garantir entregas eficientes.
+Atualmente atuo principalmente com as tecnologias C#, Typescript e Node.js, além de ter experiência em diversas outras tecnologias, como HTML, CSS/SASS, Javascript, React, Vue.js, Angular, Wordpress, Python, PHP, e familiaridade com bancos de dados como SQL Server e MySQL, e manipulação de containers com Docker.
 
-Sou impulsionado por valores como dedicação, persistência e comunicação eficaz. Gosto de construir boas conexões com as pessoas, sempre buscando soluções criativas e coletivas para os desafios, e estou sempre aberto a aprender mais e compartilhar experiências.
+Além das habilidades técnicas, possuo um profundo entendimento dos princípios SOLID, Design Patterns e Domain-Driven Design (DDD), assim como conhecimento em microsserviços, mensageria, CI/CD e boas práticas de desenvolvimento, incluindo a implementação de Testes de Unidade/Integração e Código Limpo. Possuo conhecimento em arquiteturas de software, e sou praticante ágil, utilizando metodologias como Scrum para garantir entregas eficientes.
 </p>
 
 <h2 align="left">
