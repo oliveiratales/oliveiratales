@@ -3,7 +3,8 @@
 <img src="https://github.com/oliveiratales/oliveiratales/assets/118945743/495edd3a-18d6-4eb5-b237-367d71a813fb" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Desenvolvedor de software com mais de dois anos de experiência em desenvolvimento e manutenção de APIs REST e microsserviços, com sólida atuação em engenharia de software, aplicando SOLID, Design Patterns e Clean Code, e experiência em arquitetura de software, garantindo soluções escaláveis, seguras e de alta performance. 
+Desenvolvedor de software com mais de dois anos de experiência no desenvolvimento e manutenção de APIs REST e microsserviços. Atuo com engenharia e arquitetura de software aplicando princípios como SOLID, Design Patterns e Clean Code para entregar soluções escaláveis, seguras e de alta performance.
+ 
 </p>
 
 <h2 align="left">
